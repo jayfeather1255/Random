@@ -12,3 +12,10 @@ C:\Users\信如\Desktop\學校\程式\git\2018-03-22 大富翁\20180322\obj\Debu
 C:\Users\信如\Desktop\學校\程式\git\2018-03-22 大富翁\20180322\obj\Debug\20180322.csproj.CoreCompileInputs.cache
 C:\Users\信如\Desktop\學校\程式\git\2018-03-22 大富翁\20180322\obj\Debug\20180322.exe
 C:\Users\信如\Desktop\學校\程式\git\2018-03-22 大富翁\20180322\obj\Debug\20180322.pdb
+C:\Users\信如\Desktop\學校\程式\git\2018-03-22 大樂透選號機(Random)\20180322\bin\Debug\20180322.exe.config
+C:\Users\信如\Desktop\學校\程式\git\2018-03-22 大樂透選號機(Random)\20180322\bin\Debug\20180322.exe
+C:\Users\信如\Desktop\學校\程式\git\2018-03-22 大樂透選號機(Random)\20180322\bin\Debug\20180322.pdb
+C:\Users\信如\Desktop\學校\程式\git\2018-03-22 大樂透選號機(Random)\20180322\obj\Debug\20180322.csprojResolveAssemblyReference.cache
+C:\Users\信如\Desktop\學校\程式\git\2018-03-22 大樂透選號機(Random)\20180322\obj\Debug\20180322.csproj.CoreCompileInputs.cache
+C:\Users\信如\Desktop\學校\程式\git\2018-03-22 大樂透選號機(Random)\20180322\obj\Debug\20180322.exe
+C:\Users\信如\Desktop\學校\程式\git\2018-03-22 大樂透選號機(Random)\20180322\obj\Debug\20180322.pdb
